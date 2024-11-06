@@ -7,7 +7,7 @@
 **Flying Monster** is a game developed in Java where players control a monster character, navigating it through pipes and avoiding obstacles. This project is designed to enhance understanding of game development concepts, including animation, collision detection, and event handling in Java.
 
 ## Below is the simulation for the Flying Monster game
-![Flying Monster Game GIF](assets/game.gif)
+<img src="assets/game.gif" alt="Flying Monster Game GIF" width="270" height="450">
 
 ## Features
 
